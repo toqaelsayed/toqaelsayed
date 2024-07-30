@@ -1,4 +1,4 @@
-Junior Flutter Developer | Student at ITI ( Cross platform Mobile Development and Front end )
+react Developer & flutter developer |  ITI ( Cross platform Mobile Development and Front end )
 
 <!---
 toqaelsayed/toqaelsayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
