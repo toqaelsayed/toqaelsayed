@@ -1,4 +1,4 @@
-FrontEnd Developer  |  ITI ( Cross platform Mobile Development and Front end )
+FrontEnd Developer  |  ITI ( FrontEnd Devlopment and Cross Platform )
 
 <!---
 toqaelsayed/toqaelsayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
