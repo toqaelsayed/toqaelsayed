@@ -1,6 +1,1 @@
-FrontEnd Developer  |  ITI Graduate ( FrontEnd Devlopment and Cross Platform )
-
-<!---
-toqaelsayed/toqaelsayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer focused on building clean, scalable, and user-centered web experiences. Passionate about turning complex UI ideas into smooth, responsive interfaces using React and modern web tools. Always improving code quality, performance, and design consistency.
